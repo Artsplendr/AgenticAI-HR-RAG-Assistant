@@ -27,7 +27,7 @@ HR teams manage high-volume, policy-driven questions where accuracy and consiste
 
 - Clone the repository:
   ```bash
-  git clone https://github.com/<you>/HR-RAG-Assistant.git
+  git clone https://github.com/Artsplendr/HR-RAG-Assistant.git
   cd HR-RAG-Assistant
   ```
 - Install
